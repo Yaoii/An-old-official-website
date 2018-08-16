@@ -1,0 +1,180 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+#red {
+	color: #E64538;
+}
+.top {
+	margin: 0 auto;
+	height: 80px;
+	width: 100%;
+	background-color: #282f39;
+}
+.top_content {
+	width: 1000px;
+	height: 80px;
+	margin: 0 auto;
+	font-family: "微软雅黑";
+}
+.top a:active {
+	color: #d34238;
+}
+.top a:hover {
+	color: #d34238;
+}
+.yingwen {
+	font-size: 10px;
+	font-family: "微软雅黑";
+}
+.logol {
+	width: 466px;
+	height: 80px;
+	float: left;
+}
+.logol li {
+	float: left;
+	list-style: none;
+	width: 58px;
+	margin-left: 40px;
+	margin-top: 33px;
+	line-height: 15px;
+}
+.logol a {
+	font-size: 14px;
+	color: #999999;
+	text-decoration: none;
+}
+.logo {
+	float: left;
+	width: 68px;
+	height: 60px;
+	margin-top: 10px;
+}
+.logor {
+	width: 466px;
+	height: 80px;
+	float: left;
+}
+.logor li {
+	float: left;
+	list-style: none;
+	width: 58px;
+	margin-right: 30px;
+	margin-top: 33px;
+	line-height: 15px;
+}
+
+#BBS{
+	width: 30px;
+}
+
+
+.logor a{
+	font-size: 14px;
+	color: #999999;
+	text-decoration: none;
+	
+	
+}
+
+.pic{
+	width: 100%;
+	height: 419px;
+	position: relative;
+	overflow: hidden;
+}
+
+.pic_content{
+	width: 2000px;
+	position: absolute;
+	left: 50%;
+	margin-left: -1000px;
+	
+}
+
+.mid{
+	margin: 0 auto;
+	width: 100%;
+	height: 1990px;
+}
+
+.mid_content{
+	width: 1000px;
+	height: 100%;
+	margin: 0 auto;
+	
+}
+
+#biaoti{
+	font-size: 21px;
+	font-family: "微软雅黑";
+	text-align: center;
+
+}
+
+.contact{
+	margin:0 auto;
+	height: 50px;
+	background-color: #F8F8F8;
+	width: 100%;
+	text-align: center;
+	line-height: 50px;
+	font-family: '微软雅黑';
+	color: #AAAAAA;
+}
+
+.foot{
+	margin:0 auto;
+	height:280px;
+	width: 100%;
+	background-color:#282F39;
+}
+
+.foot_f{
+	width: 247px;
+	height: 65px;
+    background: #F54337;
+	margin: 0 auto;
+    border-radius: 50% / 0 0 100% 100%;
+	
+}
+
+.foot_f span{
+	line-height: 45px;
+	color: #FFFFFF;
+	margin-left: 80px;
+	font-family: '微软雅黑';
+	font-size: 18px;
+}
+
+
+.foot_s{
+	margin:0 auto;
+	width: 590px;
+	
+}
+
+#link{
+	text-align: center;
+	color:#FFFFFF;
+	font-family: "微软雅黑";
+}
+
+.foot_t{
+	width: 345px;
+	margin:0 auto;
+    
+}
+
+.foot_t a{
+	margin-left: 30px;
+}
+
+
+#copy{
+	text-align: center;
+	color: #FFFFFF;
+	font-family: "微软雅黑";
+}
+
+

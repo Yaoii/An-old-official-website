@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 740px) and (max-width: 900px){
+
+.top {
+	margin: 0 auto;
+	height: 80px;
+	width: 100%;
+	background-color: #282f39;
+}
+.top_content {
+	width: 768px;
+	height: 80px;
+	margin: 0 auto;
+	font-family: "微软雅黑";
+}
+
+.yingwen {
+	font-size: 10px;
+	font-family: "微软雅黑";
+}
+.logol {
+	width: 350px;
+	height: 80px;
+	float: left;
+}
+.logol li {
+	float: left;
+	list-style: none;
+	width: 58px;
+	margin-left: 15px;
+	margin-top: 33px;
+	line-height: 15px;
+}
+.logol a {
+	font-size: 11px;
+	color: #999999;
+	text-decoration: none;
+}
+
+.logor {
+	width: 350px;
+	height: 80px;
+	float: left;
+}
+.logor li {
+	float: left;
+	list-style: none;
+	width: 58px;
+	margin-right: 20px;
+	margin-top: 33px;
+	line-height: 15px;
+}
+.logor a {
+	font-size: 11px;
+	color: #999999;
+	text-decoration: none;
+}
+	
+	
+	
+	#none{
+		display: none;
+	}
+	.mid_content{
+	width:800px;
+	height:100%;
+	margin:0 auto;
+	}
+	.mid_content img{
+		width: 90%;
+	}
+	.mid{
+	margin:0 auto;
+	width:100%;
+	height:2150px;	
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 740px){
+
+.top {
+	margin: 0 auto;
+	height: 80px;
+	width: 100%;
+	background-color: #282f39;
+}
+.top_content {
+	width: 740px;
+	height: 80px;
+	margin: 0 auto;
+	font-family: "微软雅黑";
+}
+
+.yingwen {
+	font-size: 8px;
+	font-family: "微软雅黑";
+}
+.logol {
+	width: 335px;
+	height: 80px;
+	float: left;
+}
+.logol li {
+	float: left;
+	list-style: none;
+	width: 40px;
+	margin-left: 20px;
+	margin-top: 33px;
+	line-height: 15px;
+}
+.logol a {
+	font-size: 8px;
+	color: #999999;
+	text-decoration: none;
+}
+
+.logor {
+	width: 335px;
+	height: 80px;
+	float: left;
+}
+.logor li {
+	float: left;
+	list-style: none;
+	width: 40px;
+	margin-right: 20px;
+	margin-top: 33px;
+	line-height: 15px;
+}
+.logor a {
+	font-size: 8px;
+	color: #999999;
+	text-decoration: none;
+}
+
+	#long{
+		width: 50px;
+	}
+	.mid_content{
+	width:600px;
+	height:100%;
+	margin:0 auto;
+	}
+	.mid_content img{
+		width: 90%;
+	}
+	.mid{
+	margin:0 auto;
+	width:100%;
+	height:2050px;	
+	}
+	
+   }
